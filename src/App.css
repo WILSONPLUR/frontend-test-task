@@ -1,0 +1,26 @@
+body,
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: "Arial", sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.result {
+  font-size: 24px;
+  font-weight: 400;
+  color: #000;
+}
+
+.new-formula {
+  margin-top: 50px;
+
+  .new-formula-summary {
+    margin-bottom: 15px;
+  }
+}
